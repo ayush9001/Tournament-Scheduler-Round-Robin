@@ -5,7 +5,7 @@ A round robin match scheduling application written in Python. After you specify 
 - **Simple Interface**
 
 If you want to create a schedule of matches for your tournament in round robin fashion (each team plays every other team once), this application will easily and efficiently do that for you by providing a simple GUI interface for setting up your tournament info.
-- **Teams get break between matches**
+- **Give teams break between matches**
 
 An important feature of this scheduling software is you can specify the minimum break each team gets between consecutive matches. 
 
@@ -13,7 +13,7 @@ For example, if minimum break is 1 day, no team will play twice on the same day.
 
 if minimum break is 2 days, no team will play twice in two days. 
 
-- **Excel output**
+- **Automated Excel output**
 
 After confirming your parameters, the schedule will be created and saved in excel files in just a few seconds.
 
